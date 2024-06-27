@@ -1,4 +1,5 @@
 # 🏙️ Airbnb Dashboard
+<img width="250" alt="Coding" src="https://cdn.freebiesupply.com/logos/large/2x/airbnb-2-logo-svg-vector.svg">
 
 ## Overview
 The dashboard provides a detailed analysis of Airbnb listings in New York City, focusing on various aspects such as bookings, reviews, pricing, and neighborhood-specific insights. It aims to help stakeholders understand the dynamics of the Airbnb market in NYC and make informed decisions.
@@ -21,6 +22,9 @@ The dataset (`AB_NYC_2019.csv`) contains data on Airbnb listings in New York Cit
 - `reviews_per_month`: Average number of reviews per month
 - `calculated_host_listings_count`: Number of listings the host has
 - `availability_365`: Number of days the listing is available per year
+
+##  Dashboard image
+<img width="350" alt="Coding" src="D:\tableau-project\airbnb-dashboard\Dashboard 1.png">
 
 ## 📈 Dashboard Explanation
 - **🏨 Total Bookings by Neighborhood Group and Room Type:** Visualizes the count of bookings for different room types across various neighborhood groups.
